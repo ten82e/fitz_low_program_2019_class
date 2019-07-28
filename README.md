@@ -5,3 +5,6 @@ MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
 MacOS Mojave 10.14.6	Qt 5.12.4
 
 両端のウインドウにMT、一つ内側のウインドウにRTがナノセカンドで出力。
+
+MacOSならそのままダウンロードしてmaeda.appを起動。
+他のOSならQtにプロジェクトを作ってビルド
